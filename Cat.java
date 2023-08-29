@@ -1,6 +1,6 @@
 // Cat class
 public class Cat {
-    // Fields (instance variables)
+    //Instance variables
     String name;
     int age;
     String breed;
