@@ -1,3 +1,5 @@
+package inheritance;
+
 public class Dog {
     // Instance Variables
     String name;

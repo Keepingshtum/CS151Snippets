@@ -1,4 +1,6 @@
-// Generic Animal class
+package inheritance;
+
+// Generic inheritance.Animal class
 public class Animal {
     // Instance variables
     String name;

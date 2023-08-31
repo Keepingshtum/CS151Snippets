@@ -1,3 +1,5 @@
+package inheritance;
+
 public class UpDog extends Animal{
     String breed;
 

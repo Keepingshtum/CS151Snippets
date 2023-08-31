@@ -1,3 +1,5 @@
+package inheritance;
+
 public class NewCat extends Animal{
     String breed;
 

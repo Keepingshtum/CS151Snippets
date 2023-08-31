@@ -1,4 +1,6 @@
-// Cat class
+package inheritance;
+
+// inheritance.Cat class
 public class Cat {
     //Instance variables
     String name;
