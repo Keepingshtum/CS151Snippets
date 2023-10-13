@@ -24,7 +24,7 @@ public class Q22InheritancePerson {
     }
 }
 
-//Un
+
 
 class InheritanceStudent extends Q22InheritancePerson {
 
