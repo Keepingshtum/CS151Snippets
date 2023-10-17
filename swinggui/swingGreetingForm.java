@@ -38,6 +38,7 @@ public class swingGreetingForm {
 
         // Set frame properties
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        //What does this do? Find out here https://docs.oracle.com/javase/tutorial/uiswing/components/frame.html
         frame.pack();
         frame.setVisible(true);
     }
